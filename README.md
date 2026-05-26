@@ -14,13 +14,14 @@
 | Group | 2 |
 | Topic | Smart Household Food Management System |
 | Repository | research-by-learning-project-team2 |
+| Jira | https://thangkhaiyt24.atlassian.net/jira/software/projects/SCRUM/boards/1 |
 
 ---
 
 ## 2. Team Members
 
 | No. | Student ID | Full Name | GitHub Username | Role |
-|---:|---|---|---|---|---|
+|---:|---|---|---|---|
 | 1 | DE180054 | Trần Đức Thắng | thangdepzai12-dev | Leader | 
 | 2 | DE180154 | Võ Phạm Mỹ | vophammy24 | Member | 
 | 3 | DE180005 | Lê Đình Nhật Nam | LeDinhNhatNam | Member | 
