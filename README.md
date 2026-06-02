@@ -13,7 +13,9 @@
 | Semester | SU26 |
 | Group | 2 |
 | Topic | Smart Household Food Management System |
-| Repository | research-by-learning-project-team2 |
+| Repository | https://github.com/Summer2026SDN302/research-by-learning-project-team2 |
+| Repository FE| https://github.com/huynguyen1807/Front-end |
+| Repository BE| https://github.com/huynguyen1807/Back-end |
 | Jira | https://thangkhaiyt24.atlassian.net/jira/software/projects/SCRUM/boards/1 |
 
 ---
